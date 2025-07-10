@@ -11,3 +11,10 @@ moonraker.conf
 klipmi.toml
 gcode_macro_stock.cfg
 timelapse_stock.cfg
+*.swp
+*.tmp
+printer-[0-9]*_[0-9]*.cfg
+*.bak
+*.bkp
+*.csv
+*.zip
